@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DCKAP/static/css/main.cf213e7d.chunk.css",
+    "main.js": "/DCKAP/static/js/main.8f07a8ba.chunk.js",
+    "main.js.map": "/DCKAP/static/js/main.8f07a8ba.chunk.js.map",
+    "runtime-main.js": "/DCKAP/static/js/runtime-main.f89ed3e4.js",
+    "runtime-main.js.map": "/DCKAP/static/js/runtime-main.f89ed3e4.js.map",
+    "static/js/2.5a8cc7fb.chunk.js": "/DCKAP/static/js/2.5a8cc7fb.chunk.js",
+    "static/js/2.5a8cc7fb.chunk.js.map": "/DCKAP/static/js/2.5a8cc7fb.chunk.js.map",
+    "static/js/3.1ca409ba.chunk.js": "/DCKAP/static/js/3.1ca409ba.chunk.js",
+    "static/js/3.1ca409ba.chunk.js.map": "/DCKAP/static/js/3.1ca409ba.chunk.js.map",
+    "index.html": "/DCKAP/index.html",
+    "static/css/main.cf213e7d.chunk.css.map": "/DCKAP/static/css/main.cf213e7d.chunk.css.map",
+    "static/js/2.5a8cc7fb.chunk.js.LICENSE.txt": "/DCKAP/static/js/2.5a8cc7fb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DCKAP/static/media/plant2.023724cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f89ed3e4.js",
+    "static/js/2.5a8cc7fb.chunk.js",
+    "static/css/main.cf213e7d.chunk.css",
+    "static/js/main.8f07a8ba.chunk.js"
+  ]
+}
